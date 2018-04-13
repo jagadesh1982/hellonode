@@ -8,7 +8,7 @@ create package.json
 Install Nodejs
 Set PATH in .bashrc as "export PATH="$PATH:/root/nodejs/bin"
 
-cd <dir>
+cd application Dir
 npm install #where package.json is available
 node main.js # where main.js is available
 
